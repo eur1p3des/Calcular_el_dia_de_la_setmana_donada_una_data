@@ -1,4 +1,6 @@
 # Calcular_el_dia_de_la_setmana_donada_una_data
+[![Made With - Python](https://img.shields.io/badge/Made_With-Python-2ea44f?style=for-the-badge)](https://python.org)
+
 
 Aquest programa està escrit en python, i serveix per a calcular en quin dia de la setmana va caure una data en concret. 
 
